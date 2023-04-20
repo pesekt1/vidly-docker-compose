@@ -1,5 +1,4 @@
-# vidly-docker-compose
-using docker-compose
+# using docker-compose
 
 node.js backend
 
